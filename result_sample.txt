@@ -1,0 +1,47 @@
+Output 1:
+
+==========================================================================================
+RESULTS SUMMARY
+==========================================================================================
+Name                    Math   Science   English   Average   Grade
+------------------------------------------------------------------------------------------
+Alice                   30.0      40.0      50.0      40.0       F
+Comment: Failed. Please seek help from teacher.
+------------------------------------------------------------------------------------------
+Bob                     60.0      65.0      70.0      65.0       D
+Comment: Needs Improvement. Study harder.
+------------------------------------------------------------------------------------------
+Max                     92.0      95.0      96.0      94.3       A
+Comment: Excellent! Keep up the great work!
+------------------------------------------------------------------------------------------
+rahul                   75.0      80.0      84.0      79.7       C
+Comment: Good. Room for improvement.
+------------------------------------------------------------------------------------------
+
+Output 2:
+---------
+CLASS STATISTICS
+========================================
+Total Students : 4
+Class Average  : 69.75
+Highest Score  : 94.33 (Max)
+Lowest Score   : 40.00 (Alice)
+
+Output 3:
+---------
+Enter student name to search: Bob
+
+Student Found
+------------------------------
+Name    : Bob
+Average : 65.00
+Grade   : D
+Comment : Needs Improvement. Study harder.
+
+Output 4:
+--------
+Results saved to 'results_sample.txt'
+
+Output 5:
+---------
+Thank you for using the Grade Calculator.
