@@ -1,0 +1,104 @@
+Test case 1:
+
+========================================
+ STUDENT GRADE CALCULATOR 
+========================================
+1. Enter Student Data
+2. Display Results
+3. Show Statistics
+4. Search Student
+5. Save Results
+6. Exit
+Choose an option: 1
+Enter number of students: 4
+
+===== Student 1 =====
+Student Name: Alice
+Math: 30
+Science: 40
+English: 50
+
+===== Student 2 =====
+Student Name: 
+Name cannot be empty.
+Student Name: Bob
+Math: 60
+Science: 65
+English: 70
+
+===== Student 3 =====
+Student Name: Max
+Math: 92
+Science: 95
+English: 96
+
+===== Student 4 =====
+Student Name: rahul
+Math: 75
+Science: 80
+English: 84
+
+Test case 2:
+
+========================================
+ STUDENT GRADE CALCULATOR 
+========================================
+1. Enter Student Data
+2. Display Results
+3. Show Statistics
+4. Search Student
+5. Save Results
+6. Exit
+Choose an option: 2
+
+Test case 3:
+
+========================================
+ STUDENT GRADE CALCULATOR 
+========================================
+1. Enter Student Data
+2. Display Results
+3. Show Statistics
+4. Search Student
+5. Save Results
+6. Exit
+Choose an option: 3
+
+Test case 4:
+
+========================================
+ STUDENT GRADE CALCULATOR 
+========================================
+1. Enter Student Data
+2. Display Results
+3. Show Statistics
+4. Search Student
+5. Save Results
+6. Exit
+Choose an option: 4
+
+Test case 5:
+
+========================================
+ STUDENT GRADE CALCULATOR 
+========================================
+1. Enter Student Data
+2. Display Results
+3. Show Statistics
+4. Search Student
+5. Save Results
+6. Exit
+Choose an option: 5
+
+Test case 6:
+
+========================================
+ STUDENT GRADE CALCULATOR 
+========================================
+1. Enter Student Data
+2. Display Results
+3. Show Statistics
+4. Search Student
+5. Save Results
+6. Exit
+Choose an option: 6
