@@ -134,9 +134,9 @@ Lowest Average : 81.3 (Sarah Johnson)
 ---
 
 ## Screenshots
-sample input: input.png
+sample input: ![Input Screen](input.png)
 
-sample output: sample_output.png
+sample output: ![Results](sample_output.png)
 
 ## Challenges Faced
 
